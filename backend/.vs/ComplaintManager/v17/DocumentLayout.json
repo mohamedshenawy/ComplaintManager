@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyCodingSpace\\MyOwnProject\\ComplaintManager\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD3E215-C3E8-473E-A41D-A1ED6F4C8CF5}|src\\API\\API.csproj|d:\\mycodingspace\\myownproject\\complaintmanager\\backend\\src\\api\\controllers\\visitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD3E215-C3E8-473E-A41D-A1ED6F4C8CF5}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\visitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C629D9-5070-4FCB-BD98-19BE7341B6D7}|src\\Infrastructure\\Infrastructure.csproj|d:\\mycodingspace\\myownproject\\complaintmanager\\backend\\src\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C629D9-5070-4FCB-BD98-19BE7341B6D7}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCB0CE2-B4A3-406D-8033-9E025A642E8C}|src\\Application\\Application.csproj|d:\\mycodingspace\\myownproject\\complaintmanager\\backend\\src\\application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCB0CE2-B4A3-406D-8033-9E025A642E8C}|src\\Application\\Application.csproj|solutionrelative:src\\application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitController.cs",
+              "DocumentMoniker": "D:\\MyCodingSpace\\MyOwnProject\\ComplaintManager\\backend\\src\\API\\Controllers\\VisitController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\VisitController.cs",
+              "ToolTip": "D:\\MyCodingSpace\\MyOwnProject\\ComplaintManager\\backend\\src\\API\\Controllers\\VisitController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\VisitController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:37:50.578Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\MyCodingSpace\\MyOwnProject\\ComplaintManager\\backend\\src\\Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "D:\\MyCodingSpace\\MyOwnProject\\ComplaintManager\\backend\\src\\Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:42:14.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\MyCodingSpace\\MyOwnProject\\ComplaintManager\\backend\\src\\Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\MyCodingSpace\\MyOwnProject\\ComplaintManager\\backend\\src\\Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "src\\Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:38:05.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

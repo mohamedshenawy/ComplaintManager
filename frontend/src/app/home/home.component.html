@@ -1,0 +1,85 @@
+<div>
+    <div class="mb-3">
+      <label  class="form-label">phone number</label>
+      <input type="text" class="form-control" id="phoneNumber" [(ngModel)]="phoneNumber" >
+    </div>
+   
+    <button type="submit" class="btn btn-primary" (click)="searchByPhoneNumber()">Search</button>
+</div>
+
+<div
+    class="table-responsive"
+>
+    <table
+        class="table table-striped table-hover table-borderless table-primary align-middle"
+    >
+        <thead class="table-light">
+            <caption>
+                Customer
+            </caption>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>mobile</th>
+                <th>home</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody class="table-group-divider">
+            <tr
+                class="table-primary"
+            >
+                <td scope="row">{{customerobj?.customerId}}</td>
+                <td>{{customerobj?.aName}}</td>
+                <td>{{customerobj?.mobile}}</td>
+                <td>{{customerobj?.home}}</td>
+                <td>{{customerobj?.address}}</td>
+            </tr>
+            
+        </tbody>
+        <tfoot>
+            
+        </tfoot>
+    </table>
+</div>
+
+
+
+<div
+    class="table-responsive"
+>
+    <table
+        class="table table-striped table-hover table-borderless table-primary align-middle"
+    >
+        <thead class="table-light">
+            <caption>
+                Visits
+            </caption>
+            <tr>
+                <th>ID</th>
+                <th>EmployeeName</th>
+                <th>WorkDone</th>
+                <th>CallDate</th>
+                <th>VisitDate</th>
+                <th>Fees</th>
+            </tr>
+        </thead>
+        <tbody class="table-group-divider">
+            <tr
+                *ngFor="let item of visitList"
+                class="table-primary"
+            >
+                <td scope="row">{{item?.id}}</td>
+                <td>{{item?.employeeName}}</td>
+                <td>{{item?.workDone}}</td>
+                <td>{{item?.callDate}}</td>
+                <td>{{item?.VisitDate}}</td>
+                <td>{{item?.fees}}</td>
+            </tr>
+            
+        </tbody>
+        <tfoot>
+            
+        </tfoot>
+    </table>
+</div>
